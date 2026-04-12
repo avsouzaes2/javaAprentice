@@ -1,4 +1,5 @@
 // Declaração da classe
+
 public class Variables {
     // Método principal
     public static void main (String[] args)
